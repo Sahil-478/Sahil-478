@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahil-478
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning C++ & Java
+- 👀 I’m specialized in SQL
+- 🌱 also with good fundamental knowledge in  C & Java
 - 💞️ I’m looking to collaborate with a better coder
 - 📫 email me @ sahilmutkekar64@gmail.com
 
